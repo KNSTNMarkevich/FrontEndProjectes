@@ -1,2 +1,1 @@
-# FrontEndProjectes
-HTML/CSS/JS
+<strong>ProjectOne</strong> Small landing using only html and css
